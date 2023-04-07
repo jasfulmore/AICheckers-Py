@@ -1,2 +1,2 @@
-Python-Checkers-AI
+AI Checkers 
 A checkers AI using the minimax algorithm.
